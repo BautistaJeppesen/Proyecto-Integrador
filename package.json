@@ -1,0 +1,16 @@
+{
+  "name": "piloto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-compile": "sass styles/sass:styles/css",
+    "sass-watch": "sass --watch styles/sass:styles/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.38.1"
+  }
+}
